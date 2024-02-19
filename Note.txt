@@ -1,0 +1,6 @@
+Topik 1: Pendahuluan
+Topik 2: About Me
+Topik 3: Menu Skill
+Topik 4: Menu Recent Work
+Topik 5: Contact Me
+Topik 6: Footer
